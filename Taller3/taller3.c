@@ -79,11 +79,8 @@ void ordenar()
             {
                 intercambiar(&alumnos[indice], &alumnos[indicesig]);
             }
-            
         }
-        
     }
-    
 }
 
 void escribir()
